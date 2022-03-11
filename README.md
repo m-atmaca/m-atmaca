@@ -37,5 +37,14 @@
   <!--üstekinden bakarak devam et-->
 </div>
   
+  
+  ##
+
+![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://github.com/m-atmaca">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.m-atmaca&style=for-the-badge">
+<a>
+  
 ![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 #                      Let's Get Started

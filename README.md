@@ -34,10 +34,11 @@
   
 ### 🛠 &nbsp;  Tech Stack
 <div style="display: inline_block">
+  <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
+   
   <img align="middle" alt="atmaca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="right" alt="m-atmaca" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -53,9 +54,3 @@
 </div>
   
   ##
-
-![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://github.com/m-atmaca">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.m-atmaca&style=for-the-badge">
-<a>
